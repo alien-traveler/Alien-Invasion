@@ -2,8 +2,11 @@
 
 ## How to start
 
+1. Make sure you have installed python (recommended version: 3.6).
+2. Install pygame: `pip install pygame`
+    - Note: if your python version causes `metadata-generation-failed` error, try to install pygame with `pip install pygame --pre`
+3. Start the game (*clone the repo and enter the dir*): 
 ```bash
-#Clone the repo and enter the dir
 python alien_invasion.py
 ```
 
